@@ -100,7 +100,7 @@ function RegisterContent() {
             </span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
-            You're one click away
+            You&apos;re one click away
             <br />
             from less busywork
           </h1>
@@ -214,7 +214,8 @@ function RegisterContent() {
         {/* Note about default role */}
         <div className="text-center">
           <p className="text-xs text-gray-500 dark:text-gray-400">
-            By registering, you'll be assigned a standard user role by default
+            By registering, you&apos;ll be assigned a standard user role by
+            default
           </p>
         </div>
       </div>
